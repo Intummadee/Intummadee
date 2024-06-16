@@ -8,13 +8,14 @@
 </p>
 
 <br>
+
+
 > 🌱 I’m currently learning [React](https://github.com/Intummadee/GIT_React).
 <br>
 <br>
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Intummadee&theme=omni&hide=contribs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Intummadee&theme=omni&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Intummadee&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
