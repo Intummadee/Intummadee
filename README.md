@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello World <img src="https://media.tenor.com/Oc6hUz9-D4IAAAAj/ginger-cat-cat.gif" width="70px"></h1>
+<h1 align="center"> Hello World <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70px"></h1>
 
 <p align="center">
 <em>
@@ -7,13 +7,19 @@
 </em>
 </p>
 
-<br>
+![](https://i.imgur.com/waxVImv.png)
 
+
+<br>
 
 > 🌱 I’m currently learning [React](https://github.com/Intummadee/GIT_React).
-<br>
+
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 <br>
 
+
+
+## Github Stats 🌟
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Intummadee&theme=omni&hide=contribs&show_icons=true" />
 </a>
@@ -21,10 +27,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Intummadee&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
 </a>
 
-![](https://i.imgur.com/waxVImv.png)
 
-
+## Activity ⚡
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Intummadee&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
