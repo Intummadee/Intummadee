@@ -1,9 +1,11 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center"> Hello World <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70px"></h1>
 
 <p align="center">
 <em>
- This web application provides convenience for scheduling appointments to visit a beauty clinic. Customers can check their booking history, choose the desired physician for services, and the website owner can efficiently manage lists related to both customers and physicians
+ Enjoy to do programming and coding
 </em>
 </p>
 
@@ -15,9 +17,19 @@
 
 > 🌱 I’m currently learning [React](https://github.com/Intummadee/GIT_React).
 
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 <br>
 
+<!-- About Section -->
+ ## About me
+ 
+<p>
+ <img align="right" width="350" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" alt="Coding gif" />
+ 🔭 &emsp; I’m currently studying on <b>IT KMITL</b> <br/><br/>
+ ❤️ &emsp; 👨‍💻 All of my projects are available at  <a href="https://github.com/Intummadee?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a> <br/><br/>
+ 📧 &emsp; Reach me anytime: <b>intummadee@gmail.com</b> <br/><br/>
+ 🌱 &emsp; I’m currently learning <b>React</b>.
+
+</p>
 
 
 <details> 
@@ -28,6 +40,9 @@
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Intummadee&theme=material-palenight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+    <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intummadee&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
   </p>
 
   <h3>📜 GitHub Profile Stats</h3>
@@ -42,7 +57,7 @@
 </a>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <!-- <b>Note:</b> This is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. --!>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   
