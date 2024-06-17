@@ -4,10 +4,18 @@
 <h1 align="center"> Hello World <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70px"></h1>
 
 <p align="center">
-<em>
+<em align="center">
  「  Enjoy to do programming and coding  
  ヾ(○･ω･)ﾉ☆ 」 </em>
+ <p align="center">
+ <a href="https://www.linkedin.com/in/intummadee-maliyam-800856226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:intummadee@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.instagram.com/sakurakazz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ </p>
+ 
+
 </p>
+
 
 <!--
 ![](https://i.imgur.com/waxVImv.png)
@@ -17,6 +25,12 @@
 <br>
 <!--
 > 🌱 I’m currently learning [React](https://github.com/Intummadee/GIT_React).
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/intummadee-maliyam-800856226/) 
+ [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:intummadee@gmail.com) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arreyhAbhishek)
+ [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishek_choudhary.99/)
 -->
 <br>
 
