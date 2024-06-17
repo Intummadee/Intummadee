@@ -10,6 +10,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 
+
 <br>
 
 > 🌱 I’m currently learning [React](https://github.com/Intummadee/GIT_React).
@@ -19,17 +20,45 @@
 
 
 
-## Github Stats 🌟
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Intummadee&theme=material-palenight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  </p>
+
+  <h3>📜 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Intummadee&theme=omni&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Intummadee&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
 </a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  
+  <h3>🌐 Activity </h3>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Intummadee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+
+  <h3>⏳ Wakatime </h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-stats.vercel.app/api/wakatime?username=Intummadee&theme=tokyonight" />
+  
+</details>
 
 
-## Activity ⚡
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Intummadee&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
