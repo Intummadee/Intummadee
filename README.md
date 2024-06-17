@@ -5,18 +5,19 @@
 
 <p align="center">
 <em>
- Enjoy to do programming and coding
+ 「 Enjoy to do programming and coding 」
 </em>
 </p>
 
+<!--
 ![](https://i.imgur.com/waxVImv.png)
-
+-->
 
 
 <br>
-
+<!--
 > 🌱 I’m currently learning [React](https://github.com/Intummadee/GIT_React).
-
+-->
 <br>
 
 <!-- About Section -->
@@ -30,6 +31,93 @@
  🌱 &emsp; I’m currently learning <b>React</b>.
 
 </p>
+
+
+<details> 
+  <summary><h2>🛠️Languages & Tools</h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <p>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></a>
+<!--       <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=react,css,html,js" />
+      </a>
+      <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=php,java,py,spring,nodejs,express" />
+      </a> -->
+  </p>
+   <br>
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></a>
+<!--       <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=opencv,tailwind,threejs,vue,bootstrap,django,jquery,laravel" />
+      </a> -->
+      
+  </p>
+ <br>
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+ <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
+ <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+ <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+ <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /></a>
+ <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+ <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+<!--        <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,firebase,gcp" />
+       </a>  -->
+  </p>
+   <br>
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></a>
+   <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>    
+  </p>
+</details>
+
+<br/>
 
 
 <details> 
