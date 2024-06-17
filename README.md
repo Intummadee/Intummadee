@@ -5,8 +5,8 @@
 
 <p align="center">
 <em>
- 「 Enjoy to do programming and coding 」
-</em>
+ 「  Enjoy to do programming and coding  
+ ヾ(○･ω･)ﾉ☆ 」 </em>
 </p>
 
 <!--
@@ -21,10 +21,10 @@
 <br>
 
 <!-- About Section -->
- ## About me
+ ## About me  
  
 <p>
- <img align="right" width="350" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" alt="Coding gif" />
+ <img align="right" width="500" height="250" src="https://i.makeagif.com/media/1-17-2021/t80PNA.gif" alt="Coding gif" />
  🔭 &emsp; I’m currently studying on <b>IT KMITL</b> <br/><br/>
  ❤️ &emsp; 👨‍💻 All of my projects are available at  <a href="https://github.com/Intummadee?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a> <br/><br/>
  📧 &emsp; Reach me anytime: <b>intummadee@gmail.com</b> <br/><br/>
