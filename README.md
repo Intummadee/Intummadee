@@ -87,6 +87,7 @@
    <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /></a>
    <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
    <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></a>
+    <a href="https://github.com/Ileriayo/markdown-badges"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></a>
 <!--       <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=opencv,tailwind,threejs,vue,bootstrap,django,jquery,laravel" />
       </a> -->
